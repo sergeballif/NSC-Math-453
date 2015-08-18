@@ -12,45 +12,52 @@ Legend:
 
 To "instantiate" a definition means to construct or state examples of that definition, and to create a non-example of that definition. 
 
-## 1: Integer Arithmetic
+## 1: The Integers: An Introduction
 
 + CC.1: State and instantiate the definitions of the following terms: natural numbers, whole numbers, integers, additive inverse.
-+ (CORE) M.1: Identify and use the Axioms of Integer Arithmetic.
-+ Identify and use the Ordering Axioms
-+ Use the Zero Product Property (Theorem 1.10) and the Cancellation Law (Theorem 1.11) to solve equations
++ CC.2: State the following mathematical results: Theorem 1.10, Theorem 1.11.
++ (CORE) M.1: Identify and use the Axioms of Integer Arithmetic to evaluate expressions.
++ Identify and use the Ordering Axioms for the integers.
++ Use the Zero Product Property (Theorem 1.10) and the Cancellation Law (Theorem 1.11) to solve equations.
 
 ## 2: Divisibility of Integers
 
-+ CC.2: State and instantiate the definitions of the following terms: divides, Well-Ordering Principle, congruence modulo $n$.
++ CC.3: State and instantiate the definitions of the following terms: divides, quotient, remainder, congruence modulo $n$.
++ CC.4: State the following mathematical results: Division Algorithm, Well-Ordering Principle.
 + Know the statement of The Division Algorithm and be able to find $q$ and $r$ for any choice of $a$ and $b$.
 
 ## 3 Greatest Common Divisors
 
-+ CC.3: State and instantiate the definitions of the following terms: common divisor, greatest common divisor, linear combination, relatively prime.
++ CC.5: State and instantiate the definitions of the following terms: common divisor, greatest common divisor, linear combination, relatively prime.
++ CC.6: State the following mathematical results: Theorem 3.4, Theorem 3.9.
 + Use the Euclidean Algorithm to find the greatest common divisor of two integers.
 + Know the statment of Bezout's Identity and use the Euclidean algorithm to write $\gcd(a,b)$ as a linear combination of nonzero integers $a$ and $b$.
 
 ## 4 Prime Factorization
 
-+ CC.4: State and instantiate the definitions of the following terms: prime number, composite number.
++ CC.7: State and instantiate the definitions of the following terms: prime number, composite number.
++ CC.8: State the following mathematical results: Fundamental Theorem of Arithmetic, Euclid's Lemma.
 + Use the Fundamental Theorem of Arithmetic to find a unique factorization of positive integer into primes.
 + Use Euclid's Lemma and Theorem 4.5 to show that one number divides another.
 
 ## 5 Equivalence Relations and $\mathbb{Z}_n$
 
-+ CC.5: State and instantiate the definitions of the following terms: relation, equivalence relation, congruence class, equivalence class, integers modulo $n$, Cartesian product, binary operation, zero divisors, units, multiplicative inverses
++ CC.9: State and instantiate the definitions of the following terms: relation, equivalence relation, congruence class, equivalence class, integers modulo $n$, Cartesian product, binary operation, well defined, zero divisors, units, multiplicative inverses.
++ CC.10: State the following mathematical results: Fundamental Theorem of Arithmetic, Euclid's Lemma.
 + Determine whether a given relation is an equivalence relation
-+ Be able to use an equivalence relation to break up a set into disjoint equivalence classes.
++ Be able to use an equivalence relation to break up a set into disjoint equivalence classes (as in Theorem 5.6).
 + Know how to carry out arithmetic in $\mathbb{Z}_n$ and be able to identify all zero divisors and units in $\mathbb{Z}_n$.
 
 ## 6 Algebra in Other Number Systems
 
-+ CC.6: State and instantiate the definitions of the following terms: rational numbers, complex numbers, $n\times n$ matrices, power set, symmetric difference.
++ CC.11: State and instantiate the definitions of the following terms: rational numbers, complex numbers, $n\times n$ matrices, power set, symmetric difference, Gaussian Integers.
 + Determine whether a given algebraic property (such as closure under addition or the existence of a multiplicative identity) holds for an abstract algebraic structure (such as the set of all positive rational numbers with the usual addition and multiplication)
 
 ## 7 An Introduction to Rings
 
-+ CC.7: State and instantiate the definitions of the following terms: ring, field, integral domain.
++ CC.12: State and instantiate the definitions of the following terms: ring, field, integral domain.
++ CC.13: State the following mathematical results: Theorem 7.20.
++ Determine whether a set forms a ring under specified operations.
 + Given a ring (especially the standard examples of groups on page 82), do the following: identify the zero element element; identify the additive inverse of a given element; perform operations in the ring; determine whether it is commutative; determine whether the ring has a multiplicative identity; and describe any units in the ring and their multiplicative inverses; identify any zero divisors in the ring.
 + Use the properties of zero divisors and units to solve equations involving elements of a ring.
 
@@ -72,7 +79,15 @@ To "instantiate" a definition means to construct or state examples of that defin
 + Determine whether a function between rings is a ring isomorphism.
 + Determine whether two rings are isomorphic. If they are isomorphic, then find an isomorphism. If no isomorphism exists determine why using an invariant or other property.
 
+## 11 Polynomial Rings
++ CC.11: State and instantiate the definitions of the following terms: polynomial in $x$ over a ring $R$, coefficients, degree, sum or product of polynomials, polynomial function.
++ Demonstrate the difference between polynomials and polynomial functions.
++ Know the basic properties of polynomials, such as the existence of units or zero divisors, the degree of the product of polynomials (Theorem 11.10), or commutativity.
 
+## 12 Divisibility in Polynomial Rings
++ CC.12: State and instantiate the definitions of the following terms: divisibility, greatest common divisor of polynomials, relatively prime polynomials.
++ State the Division Algorithm for a polynomial ring over a field and demonstrate the truth of the theorem for given polynomials.
++ 
 
 
 
