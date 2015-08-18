@@ -23,7 +23,7 @@ MTH 453 Learning Objectives in order of appearance
 + Identify and use the Ordering Axioms
 + Use the Zero Product Property (Theorem 1.10) and the Cancellation Law (Theorem 1.11) to solve equations
 
-## 2:
+## 2: Divisibility of Integers
 
 + CC.2: State and instantiate the definitions of the following terms: divides, Well-Ordering Principle, congruence modulo $n$.
 + Know the statement of The Division Algorithm and be able to find $q$ and $r$ for any choice of $a$ and $b$.
@@ -36,7 +36,7 @@ MTH 453 Learning Objectives in order of appearance
 
 ## 4 Prime Factorization
 
-+ CC.4: State and instantiate the definitions of the following terms: prime number, composite number, .
++ CC.4: State and instantiate the definitions of the following terms: prime number, composite number.
 + Use the Fundamental Theorem of Arithmetic to find a unique factorization of positive integer into primes.
 + Use Euclid's Lemma and Theorem 4.5 to show that one number divides another.
 
@@ -48,6 +48,24 @@ MTH 453 Learning Objectives in order of appearance
 + Know how to carry out arithmetic in $\mathbb{Z}_n$ and be able to identify all zero divisors and units in $\mathbb{Z}_n$.
 
 ## 6 Algebra in Other Number Systems
+
++ CC.6: State and instantiate the definitions of the following terms: rational numbers, complex numbers, $n\times n$ matrices, power set, symmetric difference.
++ Determine whether a given algebraic property (such as closure under addition or the existence of a multiplicative identity) holds for an abstract algebraic structure (such as the set of all positive rational numbers with the usual addition and multiplication)
+
+## 7 An Introduction to Rings
+
++ CC.7: State and instantiate the definitions of the following terms: ring, field, integral domain.
++ Given a ring (especially the standard examples of groups on page 82), do the following: identify the zero element element; identify the additive inverse of a given element; perform operations in the ring; determine whether it is commutative; determine whether the ring has a multiplicative identity; and describe any units in the ring and their multiplicative inverses; identify any zero divisors in the ring.
++ Use the properties of zero divisors and units to solve equations involving elements of a ring.
+
+## 8 Integer Multiples and Exponents
+
++ CC.7: State and instantiate the definitions of the following terms: multiples or powers of ring elements, characteristic.
++ Know the statement of the Binomial Theorem, and be able to use the Binomial Theorem to find a coefficient of term in the expansion of a binomial expression to a power.
++ Be able to compute negative multiples or negative powers of various ring elements (or know when such things are not defined).
+
+
+
 
 
 
