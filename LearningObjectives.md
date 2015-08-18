@@ -12,10 +12,6 @@ Legend:
 
 To "instantiate" a definition means to construct or state examples of that definition, and to create a non-example of that definition. 
 
-
-MTH 453 Learning Objectives in order of appearance
-==================================================
-
 ## 1: Integer Arithmetic
 
 + CC.1: State and instantiate the definitions of the following terms: natural numbers, whole numbers, integers, additive inverse.
@@ -60,9 +56,22 @@ MTH 453 Learning Objectives in order of appearance
 
 ## 8 Integer Multiples and Exponents
 
-+ CC.7: State and instantiate the definitions of the following terms: multiples or powers of ring elements, characteristic.
++ CC.8: State and instantiate the definitions of the following terms: multiples or powers of ring elements, characteristic.
 + Know the statement of the Binomial Theorem, and be able to use the Binomial Theorem to find a coefficient of term in the expansion of a binomial expression to a power.
 + Be able to compute negative multiples or negative powers of various ring elements (or know when such things are not defined).
+
+## 9 Integer Multiples and Exponents
+
++ CC.9: State and instantiate the definitions of the following terms: subring, subfield, direct sum of rings.
++ Use the subring test to determine whether a subset of a ring is a subring.
++ Add and multiply elements in the direct sum of rings.
+
+
+## 10 Isomorphisms and Invariants
++ CC.10: State and instantiate the definitions of the following terms: isomorphism, isomorphic rings, well-defined function, invariant.
++ Determine whether a function between rings is a ring isomorphism.
++ Determine whether two rings are isomorphic. If they are isomorphic, then find an isomorphism. If no isomorphism exists determine why using an invariant or other property.
+
 
 
 
