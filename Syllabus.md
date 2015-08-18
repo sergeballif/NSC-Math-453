@@ -22,6 +22,86 @@ __Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my of
 9. Academic honesty is taken very seriously. We have simple and rigorously enforced policies in Math 453 to ensure that the work you are submitting is your own. All violations of these policies, no matter how seemingly small, have serious repercussions. Make it a goal to ask for help instead of bending the rules.
 10. You may ask a question about anything at any time, especially in office hours. The material in this course is not necessarily easy, and at some point you will get stuck or frustrated. Don’t panic. Instead, seek out help. If you cannot make my office hours, you can always schedule an appointment and I will try to meet you. I won’t do your work for you, but I will help you ask the right kinds of questions that will help you get unstuck.
 
+## Assessment and Grading
+
+This course uses a points-free, competency-based assessment system that differs from traditional pointsbased systems in some very important ways. It is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course concepts.
+
+__Learning Objectives:__ The entire course is organized around a list of Learning Objectives that specify individual
+tasks that demonstrate mastery of various items in the course. These objectives fall into three categories:
+
+- Concept Check (__CC__) objectives that address basic terminology, results, and computations;
+- Module (__M__) objectives that address higher-level tasks such as analysis, application, and creative work
+through programming or proof writing; and
+- Core Module (__CORE M__) objectives, which are a subset of the list of M objectives that are especially
+important for the course.
+
+There are 30 CC objectives, and 37 M objectives, and 19 CORE M objectives within the list of M objectives in the course, a full list of which is provided on the [course objectives page](NSC-Math-453/CourseObjectives.html). The object of the course for each student is to demonstrate mastery on as many learning objectives as possible.
+
+
+
+
+
+
+
+
+
+
+__Methods of Assessment:__ Your mastery of the learning objectives is measured through different means:
+● Mastery of the CC objectives will be assessed through Concept Checks, which are quizzes given roughly
+once a week in class.
+● Your mastery of the M objectives will be assessed through Learning Modules, which are bundles of
+problems that are grouped around a particular theme and done individually outside of class. There are nine
+modules based on the content of the course plus two additional modules (Getting Started and Tech
+Competency). There are twelve Learning Modules planned for the course.
+● Finally, your mastery of the COREM
+objectives will be assessed through problems (one problem for each
+COREM
+objective) done during timed assessment periods in class.
+Additionally, all students will complete Class Preparation assignments to ensure adequate preparation for each
+class. Class Preparation involves reading the textbook, working with simple exercises and examples, and submitting
+work on these plus questions you have. At the beginning of each class meeting, one student will be selected to
+present his or her work on the Class Preparation and lead a discussion on the material.
+Method of marking: Generally speaking, each assessment item is marked on a twolevel
+scale: either Pass or No
+Pass, on the basis of whether or not the work satisfies a list of specifications for acceptable work.
+● For Class Preparation, you receive a mark of Pass if (and only if) each item you are asked to submit
+provides evidence of a goodfaith
+effort to give a correct answer. If you are asked to present your work, a
+successful presentation consists of presenting legible work that results from a goodfaith
+effort, and you are
+able to answer questions about your work and field questions from others.
+● On Concept Checks, each CC objective is assessed by a single item to be completed. These usually are
+objective items such as stating definitions, multiplechoice,
+true/false, fillintheblank,
+or simple calculations
+where only the answer is checked. You will Pass a CC objective if you answer correctly, and receive No
+Pass otherwise.
+● On COREM
+objectives assessed during a timed assessment period, each individual objective is given a
+separate problem to work that assesses it. Your work is marked Pass or No Pass using a simplified list of
+specifications based on the larger list of specifications for Modules.
+● On Learning Modules (untimed), we use a threelevel
+scale: Pass, Progressing, or No Pass. A mark of
+Pass is reserved for a submission for a module that meets the specifications for professionally acceptable
+work throughout the entire submission. A mark of Progressing is for work that meets many of the
+specifications but has a small number of critical errors or otherwise fails to meet specifications but
+it’s
+close. No Pass is given to work that does not reach the level of Progressing.
+Timed assessment periods: At four different times during the semester, we will set aside the entire class period for
+you to attempt problems aimed at the 24 COREM
+objectives. Before each timed assessment period, you will be
+surveyed as to which COREM
+objectives you would like to be assessed on during that period. You may attempt as
+many or as few as you like. For all the ones you select, you will receive a problem that assesses that COREM
+objective. If your work on a timed problem is Passing, then you have demonstrated mastery on that learning
+objective, and you will not be tested on it again. If your work does Not Pass, then you can elect to try a new instance
+of that problem at a later timed assessment period. You may also elect to be reassessed
+on CC objectives during
+timed assessment periods if you have not passed some of those; as with COREM
+objectives, you will need to
+specify which CC objectives you want to be assessed on in advance.
+The table below shows the requirements necessary for each letter grade. To earn the grade listed in each row, a
+student must satisfy ALL the criteria in that row.
 
 
 
