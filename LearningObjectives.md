@@ -99,12 +99,12 @@ To "instantiate" a definition means to construct or state examples of that defin
 ## 12 Divisibility in Polynomial Rings
 + CC.18: State and instantiate the definitions of the following terms: divisibility, factor, greatest common divisor of polynomials, relatively prime polynomials.
 + CC.19: State the following mathematical results: The Division Algorithm for a polynomial ring over a field.
-+ (CORE) M.26: State the Division Algorithm for a polynomial ring over a field and demonstrate the truth of the theorem for given polynomials.
++ (CORE) M.36: State the Division Algorithm for a polynomial ring over a field and demonstrate the truth of the theorem for given polynomials.
 
 ## 13 Polynomial Functions and Remainders<sup>[1](#myfootnote1)</sup>
 + CC.20: State and instantiate the definitions of the following terms: root of a polynomial.
 + CC.21: State the following mathematical results: The Remainder Theorem, The Factor Theorem.
-+ (CORE) M.27: Use a good guess, the Factor Theorem, and the Division Algorithm to completely factor a polynomial.
++ (CORE) M.37: Use a good guess, the Factor Theorem, and the Division Algorithm to completely factor a polynomial.
 
 <a name="myfootnote1">1</a>: We will lump Investigations 12 and 13 together. From Investigation 13 we will only cover the Factor Theorem and Remainder Theorem.
 
