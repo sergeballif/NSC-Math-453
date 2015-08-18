@@ -6,20 +6,20 @@ title: Math 453 Learning Objectives
 
 __Legend:__ 
 
-+ CC = Learning objectives to be assessed through Concept Checks. 
-+ M = Learning objectives to be assessed only through Learning Modules.
-+ (CORE) = Learning objectives designated as belonging to the 20 CORE-M learning objectives for Modules, assessed during timed assessment periods.
++ __CC__ = Learning objectives to be assessed through Concept Checks. 
++ __M__ = Learning objectives to be assessed only through Learning Modules.
++ __(CORE)__ = Learning objectives designated as belonging to the 19 CORE-M learning objectives for Modules, assessed during timed assessment periods.
 
 To "__instantiate__" a definition means to construct or state examples of that definition, and to create a non-example of that definition. 
 
 ## 1: The Integers: An Introduction
 
-+ CC.1: State and instantiate the definitions of the following terms: natural numbers, whole numbers, integers, additive inverse.
-+ CC.2: State the following mathematical results: Theorem 1.10, Theorem 1.11.
++ __CC.1:__ State and instantiate the definitions of the following terms: natural numbers, whole numbers, integers, additive inverse.
++ __CC.2:__ State the following mathematical results: Theorem 1.10, Theorem 1.11.
 + (CORE) M.1: Identify and use the Axioms of Integer Arithmetic to evaluate expressions.
-+ M.2: Identify and use the Ordering Axioms for the integers.
-+ M.3: Use the Zero Product Property (Theorem 1.10) and the Cancellation Law (Theorem 1.11) to solve equations.
-+ M.4: Use the Axioms of Integer Arithmetic to prove uniqueness of additive inverses (Exercise 1) and the additive cancellation law (Exercise 2).
++ __M.2:__ Identify and use the Ordering Axioms for the integers.
++ __M.3:__ Use the Zero Product Property (Theorem 1.10) and the Cancellation Law (Theorem 1.11) to solve equations.
++ __M.4:__ Use the Axioms of Integer Arithmetic to prove uniqueness of additive inverses (Exercise 1) and the additive cancellation law (Exercise 2).
 
 ## 2: Divisibility of Integers
 
