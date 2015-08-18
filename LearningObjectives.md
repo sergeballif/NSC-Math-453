@@ -4,13 +4,13 @@ title: Math 453 Learning Objectives
 ---
 # Math 453 Learning Objectives	
 
-Legend: 
+__Legend:__ 
 
 + CC = Learning objectives to be assessed through Concept Checks. 
 + M = Learning objectives to be assessed only through Learning Modules.
 + (CORE) = Learning objectives designated as belonging to the 20 CORE-M learning objectives for Modules, assessed during timed assessment periods.
 
-To "instantiate" a definition means to construct or state examples of that definition, and to create a non-example of that definition. 
+To "__instantiate__" a definition means to construct or state examples of that definition, and to create a non-example of that definition. 
 
 ## 1: The Integers: An Introduction
 
