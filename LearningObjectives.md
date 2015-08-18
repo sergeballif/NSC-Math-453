@@ -60,34 +60,44 @@ To "instantiate" a definition means to construct or state examples of that defin
 + Determine whether a set forms a ring under specified operations.
 + Given a ring (especially the standard examples of groups on page 82), do the following: identify the zero element element; identify the additive inverse of a given element; perform operations in the ring; determine whether it is commutative; determine whether the ring has a multiplicative identity; and describe any units in the ring and their multiplicative inverses; identify any zero divisors in the ring.
 + Use the properties of zero divisors and units to solve equations involving elements of a ring.
++ Be able to determine whether $\mathbb{Z}_n$ is a field based off the value of $n$.
 
 ## 8 Integer Multiples and Exponents
 
-+ CC.8: State and instantiate the definitions of the following terms: multiples or powers of ring elements, characteristic.
++ CC.14: State and instantiate the definitions of the following terms: multiples or powers of ring elements, characteristic.
++ Be prepared to prove any of the results of Theorem 8.5.
 + Know the statement of the Binomial Theorem, and be able to use the Binomial Theorem to find a coefficient of term in the expansion of a binomial expression to a power.
 + Be able to compute negative multiples or negative powers of various ring elements (or know when such things are not defined).
 
 ## 9 Integer Multiples and Exponents
 
-+ CC.9: State and instantiate the definitions of the following terms: subring, subfield, direct sum of rings.
-+ Use the subring test to determine whether a subset of a ring is a subring.
++ CC.15: State and instantiate the definitions of the following terms: subring, subfield, field extension, direct sum of rings.
++ Use the Subring Test to determine whether a subset of a ring is a subring.
 + Add and multiply elements in the direct sum of rings.
 
-
 ## 10 Isomorphisms and Invariants
-+ CC.10: State and instantiate the definitions of the following terms: isomorphism, isomorphic rings, well-defined function, invariant.
++ CC.16: State and instantiate the definitions of the following terms: isomorphism, isomorphic rings, well-defined function, invariant.
 + Determine whether a function between rings is a ring isomorphism.
 + Determine whether two rings are isomorphic. If they are isomorphic, then find an isomorphism. If no isomorphism exists determine why using an invariant or other property.
 
 ## 11 Polynomial Rings
-+ CC.11: State and instantiate the definitions of the following terms: polynomial in $x$ over a ring $R$, coefficients, degree, sum or product of polynomials, polynomial function.
++ CC.17: State and instantiate the definitions of the following terms: polynomial in $x$ over a ring $R$, coefficients, degree, sum or product of polynomials, polynomial function.
 + Demonstrate the difference between polynomials and polynomial functions.
 + Know the basic properties of polynomials, such as the existence of units or zero divisors, the degree of the product of polynomials (Theorem 11.10), or commutativity.
 
 ## 12 Divisibility in Polynomial Rings
-+ CC.12: State and instantiate the definitions of the following terms: divisibility, greatest common divisor of polynomials, relatively prime polynomials.
++ CC.18: State and instantiate the definitions of the following terms: divisibility, factor, greatest common divisor of polynomials, relatively prime polynomials.
++ CC.19: State the following mathematical results: The Division Algorithm for a polynomial ring over a field.
 + State the Division Algorithm for a polynomial ring over a field and demonstrate the truth of the theorem for given polynomials.
-+ 
+
+## 13 Polynomial Functions and Remainders<sup>[1](#myfootnote1)</sup>
++ CC.20: State and instantiate the definitions of the following terms: root of a polynomial.
++ CC.21: State the following mathematical results: The Remainder Theorem, The Factor Theorem.
++ Use a good guess, the Factor Theorem, and the Division Algorithm to factor a polynomial.
+
+<a name="myfootnote1">1</a>: We will lump Investigations 12 and 13 together. From Investigation 13 we will only cover the Factor Theorem an Remainder Theorem.
+
+
 
 
 
