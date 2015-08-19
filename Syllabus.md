@@ -72,7 +72,12 @@ able to answer questions about your work and field questions from others.
 __CORE M Assessments:__ At four different times during the semester, we will set aside the entire class period for you to attempt problems aimed at the 19 __CORE­ M__ objectives. Before each timed assessment period, you will be surveyed as to which __CORE ­__M objectives you would like to be assessed on during that period. You may attempt as many or as few as you like. For all the ones you select, you will receive a problem that assesses that __CORE ­M__ objective. If your work on a timed problem is Passing, then you have demonstrated mastery on that learning objective, and you will not be tested on it again. If your work does Not Pass, then you can elect to try a new instance of that problem at a later timed assessment period. You may also elect to be re­assessed on __CC__ objectives during timed assessment periods if you have not passed some of those; as with __CORE­ M__ objectives, you will need to specify which __CC__ objectives you want to be assessed on in advance.  
  
 The table below shows the requirements necessary for each letter grade. To earn the grade listed in each row, a 
-student must satisfy ALL the criteria in that row. .
+student must satisfy ALL the criteria in that row.
+
+![A Grade Checklist](images/GradeChecklist.PNG)
+
+
+
 * 
 _Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent No Pass.
 
