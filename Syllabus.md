@@ -29,8 +29,8 @@ Learning Objectives: The entire course is organized around a list of Learning Ob
 
 + Concept Check (__CC__) objectives that address basic terminology, results, and computations;  
 + Mastery (__M__) objectives that address higher­-level tasks such as analysis, application, and creative work  through programming or proof writing; and  
-+ Core Mastery (__CORE ­M__) objectives, which are a subset of the list of M objectives that are especially important for the course.  
-There are 30 __CC__  objectives, and 37 __M__ objectives, ­­ and 19 __CORE ­M__ objectives within the list of __M__ objectives in the course, a full list of which is provided on the course Blackboard site. 
++ Core Mastery (__CORE-M__) objectives, which are a subset of the list of M objectives that are especially important for the course.  
+There are 30 __CC__  objectives, and 37 __M__ objectives, ­­ and 19 __CORE-M__ objectives within the list of __M__ objectives in the course, a full list of which is provided on the course Blackboard site. 
 
 The object of the course for each student is to demonstrate mastery on as many learning objectives as possible.  
 
@@ -38,20 +38,23 @@ The object of the course for each student is to demonstrate mastery on as many l
 * __Leading Discussion:__ Each class meeting, one student will be selected to present his or her work on the Class Preparation and lead a discussion on the material.
 * __Concept Checks:__ At the beginning of each class period we will have a quiz to assess how well you have mastered the material of each investigation.
 * __Mastery Problems:__ Each of the 37 __M__ objectives will be assessed through weekly homework assignments.   
-* __CORE M Assessments__ Mastery of __CORE M__ objectives will be assessed through problems (one problem for each __CORE ­M__ objective) done during timed assessment periods in class.  
+* __CORE-M Assessments__ Mastery of __CORE-M__ objectives will be assessed through problems (one problem for each __CORE-M__ objective) done during timed assessment periods in class.  
 * __Teaching Items:__ Finally, to demonstrate mastery of core objectives students will be asked to create three lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. Students can complete one project of the types
- - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the __CORE M__ objectives of the class.
- - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the __CORE M__ objectives of the class.
- - __Desmos Activity__ Students will create a Desmos account at https://teacher.desmos.com and create a lesson activity that illustrates one of the __CORE M__ objectives of the class.
+ - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the __CORE-M__ objectives of the class.
+ - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the __CORE-M__ objectives of the class.
+ - __Desmos Activity__ Students will create a Desmos account at https://teacher.desmos.com and create a lesson activity that illustrates one of the __CORE-M__ objectives of the class.
 
 __Grading System__
 Math 453 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course  concepts. Our grading system works as follows:
 
 * At the beginning of the semester, you will be asked to decide on the target grade you plan to earn for the course. This does not need to be an “A”. You’ll be asked to carefully consider your goals, skill set, life situation, academic needs, and so on before stating your target grade. For some students, a “B” or even a “C” is perfectly sufficient and realistic, relative to their situation.
-* **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass** or on a three level scale of **Mastery/Progressing/Novice**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate page, and you should make yourself intimately familiar with that page. Your Guided Practice, Leading Discussions, Concept Checks, and CORE M Assessments, are graded on a Pass/No Pass basis; Mastery Problems and Teaching Items are graded using Mastery/Progressing/Novice designations.
+* **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass** or on a three level scale of **Mastery/Progressing/Novice**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate page, and you should make yourself intimately familiar with that page. Your Guided Practice, Leading Discussions, Concept Checks, and CORE-M Assessments, are graded on a Pass/No Pass basis; Mastery Problems and Teaching Items are graded using Mastery/Progressing/Novice designations.
 * The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level . There are no points involved and no statistical or numerical calculations.
 
 The table for determining your grade is given below. For reference: there are a total of 37 __M__ objectives, 19 of which are considered __CORE__ and 16 of which are outside the core. Also, there will be 12 Concept Checks, each of which will be assessed twice, 24 guided practice assignments, and 3 Teaching Items. “Pass” means the following:
+
+
+
 
 For Class Preparation, you receive a mark of Pass if (and only if) each item you are asked to submit 
 provides evidence of a good­faith effort to give a correct answer. If you are asked to present your work, a 
