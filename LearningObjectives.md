@@ -7,8 +7,8 @@ title: Math 453 Learning Objectives
 __Legend:__ 
 
 + __CC__ = Learning objectives to be assessed through Concept Checks. 
-+ __M__ = Learning objectives to be assessed only through Learning Modules.
-+ __CORE-M__ = Learning objectives designated as belonging to the 19 CORE-M learning objectives for Modules, assessed during timed assessment periods.
++ __M__ = Mastery objectives to be assessed only through homework.
++ __CORE-M__ = Special Mastery objectives to be assessed during timed assessment periods and through homework.
 
 To "__instantiate__" a definition means to construct or state examples of that definition, and to create a non-example of that definition. 
 
