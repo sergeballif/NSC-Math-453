@@ -2,6 +2,7 @@
 layout: default
 title: Math 453 Syllabus
 ---
+# Math 453 Syllabus
 
 ## Contact Information
 __Instructor:__ Serge Ballif  
