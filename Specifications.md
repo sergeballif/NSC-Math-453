@@ -52,10 +52,10 @@ Homework problems are generally aimed at demonstrating your ability to apply, an
 
 Homework problems will have a wide tange of complexity and difficulty. A Mastery problem will receive a __Mastery__ score if each of the four criteria below (the __C__'s) are reached. 
 
-- [ ] __Completeness__. Has every aspect of the problem been throroughly addressed?  
-- [ ] __Correctness__. Is the work mathematically correct? Does it demonstrate a thorough grasp of the underlying concepts?
-- [ ] __Clarity__. Does the work employ proper standards of mathematical communication, including the correct use of the English language, mathematical terminology, and mathematical notation?
-- [ ] __Coherence__. Is the solution sufficiently justified using correct logic and valid mathematical argumentation? Are all steps in the solution warranted and explained properly?
+- __Completeness__. Has every aspect of the problem been throroughly addressed?  
+- __Correctness__. Is the work mathematically correct? Does it demonstrate a thorough grasp of the underlying concepts?
+- __Clarity__. Does the work employ proper standards of mathematical communication, including the correct use of the English language, mathematical terminology, and mathematical notation?
+- __Coherence__. Is the solution sufficiently justified using correct logic and valid mathematical argumentation? Are all steps in the solution warranted and explained properly?
 
 Note that these criteria are not mutually exclusive. For example, an unwarranted step in a solution will affect both the completeness of the solution and its clarity.
 
