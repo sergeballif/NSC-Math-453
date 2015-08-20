@@ -86,27 +86,27 @@ __CORE M Assessments:__ At four different times during the semester, we will set
 + Complete the Getting Started assignment in week 1, AND
 + Pass 20 of 24 Guided Practice assignments, AND
 + Pass 1 of 3 Leading Discussions, AND
-+ Pass 15 of 21 Concept Checks, AND
++ Pass 16 of 21 Concept Checks, AND
 + Pass 13 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 27 of 37 Mastery Problems on the homework, AND
++ Attain Mastery level on 28 of 37 Mastery Problems on the homework, AND
 + Complete 2 Teaching Items with a Mastery level.
 
 ## To earn an C
 
 + Complete the Getting Started assignment in week 1, AND
 + Pass 17 of 24 Guided Practice assignments, AND
-+ Pass 10 of 21 Concept Checks, AND
++ Pass 13 of 21 Concept Checks, AND
 + Pass 11 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 19 of 37 Mastery Problems on the homework, AND
-+ Complete 1 Teaching Items with a Mastery level.
++ Attain Mastery level on 21 of 37 Mastery Problems on the homework, AND
++ Complete 1 Teaching Item with a Mastery level.
 
 ## To earn an D
 
 + Complete the Getting Started assignment in week 1, AND
 + Pass 14 of 24 Guided Practice assignments, AND
-+ Pass 5 of 21 Concept Checks, AND
++ Pass 10 of 21 Concept Checks, AND
 + Pass 9 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 10 of 37 Mastery Problems on the homework.
++ Attain Mastery level on 13 of 37 Mastery Problems on the homework.
  
 The table below shows the requirements necessary for each letter grade. To earn the grade listed in each row, a 
 student must satisfy ALL the criteria in that row.
@@ -117,9 +117,9 @@ _Note_: Guided Practice assignments may not be revised or submitted late. These 
 
 __Tokens:__ Each student will be given five “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
 
-* A revision of a Miniproject that was assessed at Novice level.
-* A third attempt of a Quiz.
-* A 24-hour extension on any Midterm Exam, Miniproject, WeBWorK set, or Teaching Item, or the Getting Started assignment. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline (which is 11:59pm EDT Sunday) and the new deadline will become 11:59pm EDT Monday. Submissions given after the extended deadline are not accepted.  
+* A revision of a Mastery Problem that was assessed at Progressing level.
+* A third attempt of a Concept Check.
+* A 24-hour extension on any Mastery Problem  or Teaching Item due date, or the Getting Started assignment. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline. Submissions given after the extended deadline are not accepted.  
 
 Opportunities to earn additional tokens may be given during the semester.
 
@@ -135,6 +135,6 @@ The chief downside to this system is that it’s complicated. You can download m
 
 ## What are the consequences of missing class?
 
-If you miss class you will miss out on the daily quiz. The quiz will only be given to students in class; you will need to use one of your tokens if you want to take a quiz outside of class. If you miss class, then you will also miss out on the lecture and activities. One possible way to catch up on the material that was covered during class is to watch the lecture recording which can be accessed by clicking on the mediasite tab in Canvas. However, you should only think of the recorded lecture as a backup because there are occasionally technical problems.
+If you miss class you will miss out on the Concept Check quiz. The quiz will only be given to students in class; you will need to use one of your tokens if you want to take a quiz outside of class. If you miss class, then you will also miss out on the lecture and activities. One possible way to catch up on the material that was covered during class is to watch the lecture recording which can be accessed by clicking on the mediasite tab in Canvas. However, you should only think of the recorded lecture as a backup because there are occasionally technical problems.
 
 Note that the style of this class is a partially flipped class, so you will do much of your learning by reading and watching videos outside of class. Much of each class period will be devoted to applying the principles and practicing the techniques that will be acquired in the out-of-class reading. You probably don’t want to miss out on the classroom discussion and activities. If you must miss class, then be sure to complete the Guided Practice prior to class.
