@@ -29,7 +29,7 @@ Additionally, I have made up a couple of simple LaTeX templates for both homewor
 
 Mastery Problems are completed as weekly homework assignments, and Teaching Items are projects that allow you to demonstrate mastery of CORE objectives at a deeper level. Mastery Problems and Teaching Items differ from other work in the class in that they are completed in an untimed environment. These problems involve written communication, and not just giving answers to problems. Therefore the specifications for work on these items are more complex and focus mainly on writing, communication, and style. 
 
-### General rules for Mastery level work on Mastery Problems and Teaching Items
+## General Comments for Mastery level work on Mastery Problems and Teaching Items
 
 Attaining Mastery level on one of these items requires that you be aware of the four different kinds of error that can occur when doing significant work in mathematics. 
 
@@ -38,14 +38,19 @@ Attaining Mastery level on one of these items requires that you be aware of the 
 3. __Syntax error__. Syntax errors occur in one of two ways. First, they can occur as errors in English grammar, when the rules for language usage are not followed correctly, especially to the point that they obscure the thought process in the solution or introduce new errors. Second, they can occur as errors in the usage of mathematical notation, especially if the misuse of notation obscures the solution or introduces new errors. For example, in calculus the misuse of the pronoun "it" without clear reference to an antecedent is a particular problem (example: "It is increasing because it is positive"). In mathematical notation, syntax errors can be caused by switching variables mid-solution (for example, solving $3t = 9$ to get $x = 3$ is an error); by misusing function notation, mismatching parentheses, and a host of other possibilities. 
 4. __Semantic error__. Semantic errors occur when the rules of the _grammar_ of a language are followed but the resulting statements are nonsensical or meaningless. For example, the statement "Colorless green ideas sleep furiously" is correct English syntax but has no meaning, therefore it represents a semantic error. In mathematics, a similarly semantically erroneous statement would be "The following graph can be factored". This is a semantic error because we don't "factor" graphs; we factor polynomials and integers, and to say we are "factoring a graph" is meaningless.
 
-In reality, these errors are closely linked together, and an error in one category usually introduces an error in one of the others. The general rule for Math 453 is: __Work on Problems and Miniprojects must be almost, if not  entirely free of all of the above kinds of error in order to be assessed as Mastery level; and there can be no significant instances of any of these errors.__ That is, a small number of minor errors can be tolerated as long as they do not make the answer incorrect or significantly obscure the thought process in the solution. But large numbers of minor errors, or a single instance of a major error, will result in the work being marked as _Progressing_ at best.
+In reality, these errors are closely linked together, and an error in one category usually introduces an error in one of the others. The general rule for Math 453 is: __Work on Mastery Problems and Teaching Items must be almost, if not  entirely free of all of the above kinds of error in order to be assessed as Mastery level; and there can be no significant instances of any of these errors.__ That is, a small number of minor errors can be tolerated as long as they do not make the answer incorrect or significantly obscure the thought process in the solution. But large numbers of minor errors, or a single instance of a major error, will result in the work being marked as _Progressing_ at best.
 
-Evaluation of homework solutions
+For these items, we will often refer to the __standard audience for Math 453__, which is defined to be: 
+
+>The standard audience in Math 453 consists of classmates in Math 453 who are familiar with the mathematical ideas discussed in the class and have the appropriate background knowledge for the class, but who are unfamiliar with the particular problem whose solution you are presenting and therefore need to be persuaded that your solution is correct and your conclusions believable. 
+
+Therefore some items will not need to be discussed in a solution; for example, you can perform basic arithmetic or algebra computations without showing any work. On the other hand you should remind the reader of key definitions and assumptions when proving results. 
+
+## Evaluation of Master Problem Solutions
 
 Homework problems are generally aimed at demonstrating your ability to apply, analyze, and evaluate course concepts. Some creative activity, such as constructing mathematical proofs, may also be included. In general you will see a variety of tasks on homework, ranging from the very simple to moderately complex (intended to ramp you up into a portfolio problem with a similar topic).
 
-Homework problems will have a range of credit values attached to them, depending on the complexity and difficulty of the problem. Except for homework tasks that are very simple and require you just to complete a task (2 points or less), solutions will be graded on four criteria:
-
+Homework problems will have a wide tange of complexity and difficulty. A Mastery problem will receive a __Mastery__ score if each of the four criteria below (the __C__'s) are reached. 
 
 - [ ] __Completeness__. Has every aspect of the problem been throroughly addressed?  
 - [ ] __Correctness__. Is the work mathematically correct? Does it demonstrate a thorough grasp of the underlying concepts?
@@ -54,37 +59,20 @@ Homework problems will have a range of credit values attached to them, depending
 
 Note that these criteria are not mutually exclusive. For example, an unwarranted step in a solution will affect both the completeness of the solution and its clarity.
 
-For these items, we will often refer to the __standard audience for Math 453__, which is defined to be: 
+Problems that shows significant progress in at least 3 of the 4 criteria will receive a __Progressing__ score. Any work that falls significantly below the standards in 2 or more of the critera will receive a __Novice__ score. 
 
->The standard audience in Math 453 consists of classmates in Math 453 who are familiar with the mathematical ideas discussed in the class and have the appropriate background knowledge for the class, but who are unfamiliar with the particular problem whose solution you are presenting and therefore need to be persuaded that your solution is correct and your conclusions believable. 
+## Evaluation of Teaching Items
 
-Therefore some items will not need to be discussed in a solution; for example, you can perform basic arithmetic or algebra computations without showing any work. On the other hand you should remind the reader of key definitions and assumptions when proving results. 
+Teaching Items are projects where you prepare a lesson for your fellow classmates that demonstrates your mastery a specific __CORE__ objective and your understanding of its significance. A teaching item that receives a score of __Mastery__ will 
 
-In addition to the above, here are some special rules for other aspects of your work on Problems and Miniprojects.
+- introduce the __CORE__ problem concept in an unambiguous way,
+- contain a full solution of a specific problem, 
+- include exposition on possible variations or more general cases,
+- demonstrate good pedagogy at an appropriate level for the standard Math 453 audience, and
+- satisfy the standards of the four __C__ criteria for Mastery Problems.
 
-### Specifications for supporting work
+A Teaching Item that fails to demonstrate a complete understanding of the __CORE__ objective or that is weak in its explanations will receive a score of __Progressing__. A Teaching item that is targeted at the wrong audience or that has significant errors or omissions in the explanation will receive a mark of __Novice__. 
 
-In Problems and Miniprojects it is crucial that you __not only give an answer or a conclusion but also clear, complete, and correct work that backs up your answer or conclusion__. Submitted work that consists only of answers will be considered a "significantly incomplete" in the language of the syllabus.
 
-+ For _Problems_ in which you are asked for a clearly-defined answer to a computational problem, the answer must be clearly indicated (for example, by drawing a box around it), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your answer.
-+ For _Teaching Items_ your explanations and presentation should be at the level of the instructor or a competent tutor. The explanations and details should be clear to the standard Math 181 audience.
-+ For _Miniprojects_ in which there may not be a single right answer but rather a conclusion or analysis you are asked to perform, the conclusion you are asked to draw or analysis must be clearly indicated (for example, by setting it off in a separate section of your writeup), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your conclusion. 
-+ Answers or conclusions that are given that have only minimal supporting work, or for which the relationship between the answer/conclusion and the supporting work is tenuous, illogical, or unclear will be marked at Novice level and returned without further feedback. 
 
-### Specifications for formatting submissions
 
-+ Submissions of  Miniprojects must be either typed or neatly handwritten and submitted via Canvas as PDF files. Files that are submitted in some other form besides PDF will be marked at Novice level and returned to the author without feedback. 
-+ Each Miniproject will include a cover page that states the file name to use when submitting it. Files that are submitted with the incorrect file name will be marked at Novice level and returned to the author without feedback. 
-
-### Specifications for graphical elements
-
-The following specifications apply specifically to graphs of functions: 
-
-+ Graphs must be situated in a viewing window that shows all the important facets of your graph and which does not include excessive "dead space". 
-+ Both axes of the graph must be clearly labelled with three pieces of information: the _quantity being represented_, the _variable name_, and the _units_. A recommended way to format this information is `Quantity (variable) [units]` For example, a graph of a function v(t) that gives velocity v as a function of time t would have the horizontal axis labeled `Time (t) [seconds]` and the vertical axis labeled `Velocity (v) [m/sec]`. 
-+ Both axes should include tick marks that are sufficiently labeled to show the scaling. Choose scale increments for both axes that are easy to read. 
-+ If you are graphing more than one function on the same set of axes, each individual function must be clearly labeled. 
-
-Graphs that are included in a writeup for a Problem or Miniproject _must_ satisfy all of these stylistic elements in order to be marked at Mastery level unless the context of the problem prohibits one or more of these elements being met. For example, if you are asked to draw a graph of a function but the function does not correspond to any real-world relationship and does not have units, then obviously your axis labels do not need to include the quantity or the units. (But they _should_ include the correct ...(line truncated)...
-
-For other graphical elements, such as diagrams or pictures, the element must be clearly labeled (preferably with a caption) and neatly rendered. 
