@@ -21,7 +21,7 @@ The rules for determining Pass/No Pass work are more straightforward than the ru
 
 ## Specifications for work on Mastery Problems and Teaching Items
 
-__All Master Problems and Teaching items in MTH 310 are to be typed up using a word processor or typesetting system that can render mathematical notation in a professional-looking way. The two best options are LaTeX or Microsoft Word using Equation Editor. I strongly encourage you to use LaTeX, since it’s the easiest platform to use (once you climb the initial learning curve), produces the best-looking results, and is a standard tool for math and science people in writing professional documents. If you have never used LaTeX before, I recommend two useful tools for getting started:
+__All Master Problems (homework) and Teaching items in MTH 310 are to be typed up using a word processor or typesetting system that can render mathematical notation in a professional-looking way__. The two best options are LaTeX or Microsoft Word using Equation Editor. I strongly encourage you to use LaTeX, since it’s the easiest platform to use (once you climb the initial learning curve), produces the best-looking results, and is a standard tool for math and science people in writing professional documents. If you have never used LaTeX before, I recommend two useful tools for getting started:
 
 The Introduction to LaTeX playlist at the GVSU Mathematics Department’s YouTube channel, and
 writeLaTeX, which is a free, cloud-based LaTeX platform that requires no installation and has some nice features.
