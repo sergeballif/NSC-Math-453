@@ -113,6 +113,15 @@ student must satisfy ALL the criteria in that row.
 
 ![A Grade Checklist](images/GradeChecklist.PNG)
 
+__Plus/Minus grading:__ In case not all of your attainments in the class are at the same grade level, we will figure plus/minus grades as follows. Note there are seven overall categories of work you will do: Getting Started, Guided Practice, Leading Discussions, Concept Checks, CORE-M Assessments, Mastery Problems, and Teaching Items.  First, find your category at which you have attained the lowest level of work. If that is the only category at this level, you will receive a “minus” grade for the next level up. If there are two categories at the lowest level you will receive a “plus” grade. Otherwise (more than two categories at that lowest level) you will receive the grade of your lowest level.
+
+* Example : A student who has passed Getting Started, passed 20 Guided Practice assignments (B level), 19 Concept Checks (A level), passed 1 Leading Discussion (B level), passed 13 CORE-M Assessments (B level), attained mastery on 24 Mastery Problems (C level), and completed 2 Teaching Items at mastery level (B level) receives a B-- since the Mastery Problems was the lowest level but the only one at that level.
+![A Grade Checklist](images/GradeChecklistSample1.PNG)
+* Example : A student who has passed Getting Started, passed 23 Guided Practice assignments (A level), 16 Concept Checks (B level), passed 2 Leading Discussions (A level), passed 15 CORE-M Assessments (A level), attained mastery on 30 Mastery Problems (B level), and completed 3 Teaching Items at mastery level (A level) receives a B+ because the lowest level was a B, but there were only two categories with a score of B.
+![A Grade Checklist](images/GradeChecklistSample2.PNG)
+
+Please note that NSC does not award grades of A+ or D-.
+
 _Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent No Pass.
 
 __Tokens:__ Each student will be given five “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
