@@ -69,16 +69,50 @@ able to answer questions about your work and field questions from others.
 + On __CORE M__ objectives assessed during a timed assessment period, each individual objective is given a separate problem to work that assesses it. Your work is marked __Pass__ or __No Pass__ using a simplified list of specifications based on the larger list of specifications for Modules.
 + On __Mastery Problems__ (untimed), we use a three-level scale: Mastery/Progressing/Novice. A mark of __Mastery__ is reserved for a solution that meets the specifications for professionally acceptable work. A mark of __Progressing__ is for work that meets many of the specifications but has a small number of critical errors or otherwise fails to meet specifications but it’s close. __Novice__ is given to work that does not reach the level of Progressing.
 
-__CORE M Assessments:__ At four different times during the semester, we will set aside the entire class period for you to attempt problems aimed at the 19 __CORE­ M__ objectives. Before each timed assessment period, you will be surveyed as to which __CORE ­__M objectives you would like to be assessed on during that period. You may attempt as many or as few as you like. For all the ones you select, you will receive a problem that assesses that __CORE ­M__ objective. If your work on a timed problem is Passing, then you have demonstrated mastery on that learning objective, and you will not be tested on it again. If your work does Not Pass, then you can elect to try a new instance of that problem at a later timed assessment period. You may also elect to be re­assessed on __CC__ objectives during timed assessment periods if you have not passed some of those; as with __CORE­ M__ objectives, you will need to specify which __CC__ objectives you want to be assessed on in advance.  
+__CORE M Assessments:__ At four different times during the semester, we will set aside the entire class period for you to attempt problems aimed at the 19 __CORE­ M__ objectives. Before each timed assessment period, you will be surveyed as to which __CORE ­__M objectives you would like to be assessed on during that period. You may attempt as many or as few as you like. For all the ones you select, you will receive a problem that assesses that __CORE ­M__ objective. If your work on a timed problem is Passing, then you have demonstrated mastery on that learning objective, and you will not be tested on it again. If your work does Not Pass, then you can elect to try a new instance of that problem at a later timed assessment period. You may also elect to spend one of your tokens (explained below) to be re-assessed on __CC__ objectives during timed assessment periods if you have not passed some of those; as with __CORE­ M__ objectives, you will need to specify which __CC__ objectives you want to be assessed on in advance.  
+ 
+## To earn an A
+
++ Complete the Getting Started assignment in week 1, AND
++ Pass 23 of 24 Guided Practice assignments, AND
++ Pass 2 of 3 Leading Discussions, AND
++ Pass 19 of 21 Concept Checks, AND
++ Pass 15 of 19 CORE-M problems on in-class assessments, AND
++ Attain Mastery level on 34 of 37 Mastery Problems on the homework, AND
++ Complete 3 Teaching Items (one of each type) with a Mastery level.
+
+## To earn an B
+
++ Complete the Getting Started assignment in week 1, AND
++ Pass 20 of 24 Guided Practice assignments, AND
++ Pass 1 of 3 Leading Discussions, AND
++ Pass 15 of 21 Concept Checks, AND
++ Pass 13 of 19 CORE-M problems on in-class assessments, AND
++ Attain Mastery level on 27 of 37 Mastery Problems on the homework, AND
++ Complete 2 Teaching Items with a Mastery level.
+
+## To earn an C
+
++ Complete the Getting Started assignment in week 1, AND
++ Pass 17 of 24 Guided Practice assignments, AND
++ Pass 10 of 21 Concept Checks, AND
++ Pass 11 of 19 CORE-M problems on in-class assessments, AND
++ Attain Mastery level on 19 of 37 Mastery Problems on the homework, AND
++ Complete 1 Teaching Items with a Mastery level.
+
+## To earn an D
+
++ Complete the Getting Started assignment in week 1, AND
++ Pass 14 of 24 Guided Practice assignments, AND
++ Pass 5 of 21 Concept Checks, AND
++ Pass 9 of 19 CORE-M problems on in-class assessments, AND
++ Attain Mastery level on 10 of 37 Mastery Problems on the homework.
  
 The table below shows the requirements necessary for each letter grade. To earn the grade listed in each row, a 
 student must satisfy ALL the criteria in that row.
 
 ![A Grade Checklist](images/GradeChecklist.PNG)
 
-
-
-* 
 _Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent No Pass.
 
 __Tokens:__ Each student will be given five “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
