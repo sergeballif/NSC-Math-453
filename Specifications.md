@@ -50,7 +50,7 @@ Therefore some items will not need to be discussed in a solution; for example, y
 
 Homework problems are generally aimed at demonstrating your ability to apply, analyze, and evaluate course concepts. Some creative activity, such as constructing mathematical proofs, may also be included. In general you will see a variety of tasks on homework, ranging from the very simple to moderately complex (intended to ramp you up into a portfolio problem with a similar topic).
 
-Homework problems will have a wide tange of complexity and difficulty. A Mastery problem will receive a __Mastery__ score if each of the four criteria below (the __C__'s) are reached. 
+Homework problems will have a wide tange of complexity and difficulty. A Mastery problem will receive a __Mastery__ score if each of the four criteria below (the __C__'s) can be answered affirmatively. 
 
 - __Completeness__. Has every aspect of the problem been throroughly addressed?  
 - __Correctness__. Is the work mathematically correct? Does it demonstrate a thorough grasp of the underlying concepts?
