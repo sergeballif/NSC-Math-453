@@ -3,23 +3,23 @@ layout: default
 title: Math 181 Schedule
 ---
 
-| Date   	| Guided Practice 	| WeBWorK HW Due 	|
+| Date   	| Guided Practice 	|  Due 	|
 |--------	|---------	|-----------------	|
 | 	| **Week 1**      	| |
-| Aug 25 	|  |	|
-| Aug 27 	|  |	|
+| Aug 25 	| Intro  |	|
+| Aug 27 	| GP 2 |	|
 |     	|   **Week 2**      	|                 	|                	
-| Sep 1 	|  | 	|
-| Sep 3 	|  | 	|   
+| Sep 1 	| GP 3 | HW 1	|
+| Sep 3 	| GP 4  | 	|   
 |     	|   **Week 3**      	|                 	|                	
-| Sep 8 	|  | |
-| Sep 10 	|  | |    
+| Sep 8 	| GP 5 | |
+| Sep 10 	| GP 6 | |    
 |     	|   **Week 4**      	|                 	|  
-| Sep 15 	|  |	|              	
-| Sep 17 	|  |	|
+| Sep 15 	| GP 7|	|              	
+| Sep 17 	| GP 8 |	|
 |     	|   **Week 5**      	|                 	|                	
-| Sep 22 	|  |             	|
-| Sep 24 		| |             	|
+| Sep 22 	| GP 9 |             	|
+| Sep 24 	| E |             	|
 |     	|   **Week 6**      	|                 	|                	
 | Sep 29 	|   |     	|
 | Oct 1 		|   |             	|    
