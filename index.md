@@ -4,7 +4,6 @@ title: Math 181 Schedule
 ---
 
 | Date   	| Guided Practice 	|  Due 	|
-|--------	|---------	|-----------------	|
 | 	| **Week 1**     	| |
 | Aug 25 	| Intro  |	|
 | Aug 27 	| GP 1 | Getting Started	|
