@@ -14,7 +14,7 @@ To "__instantiate__" a definition means to construct or state examples of that d
 
 ## 1: The Integers: An Introduction
 
-+ __CC.1:__ State and instantiate the definitions of the following terms: natural numbers, whole numbers, integers, additive inverse.
++ __CC.1:__ State and instantiate the definitions of the following terms: natural numbers, whole numbers, integers, additive inverse, Axioms for Integer Arithmetic, Ordering Axioms.
 + __CC.2:__ State the following mathematical results: Theorem 1.10, Theorem 1.11.
 + __(CORE) M.1:__ Identify and use the Axioms of Integer Arithmetic to evaluate expressions.
 + __M.2:__ Identify and use the Ordering Axioms for the integers.
