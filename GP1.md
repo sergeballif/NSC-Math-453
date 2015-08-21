@@ -21,7 +21,7 @@ The following are basic tasks that you should be familiar with when you come to 
 + State the definition of the additive inverse of an integer.
 + State the Ordering Axioms of the Integers.
 + State the Zero Product Property (Theorem 1.10).
-+ State the Additive Cancelation Law (Theorem 1.11).
++ State the Additive Cancellation Law (Theorem 1.11).
 
 Reading questions
 
