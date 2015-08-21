@@ -1,5 +1,5 @@
 ---
-layout: KaTeX
+layout: default
 title: Guided Practice 1
 ---
 # Guided Practice 1: Investigation 1
