@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Math 181 Schedule
+title: Math 453 Schedule
 ---
 
-| Date   	| Guided Practice 	|  Due 	|
+| Date   	| Guided Practice 	|  HW Due 	|
 |--------	|---------	|-----------------	|
 | 	| **Week 1**     	| |
 | Aug 25 	| Intro  |	|
