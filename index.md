@@ -4,6 +4,7 @@ title: Math 181 Schedule
 ---
 
 | Date   	| Guided Practice 	|  Due 	|
+
 | 	| **Week 1**     	| |
 | Aug 25 	| Intro  |	|
 | Aug 27 	| GP 1 | Getting Started	|
@@ -42,7 +43,7 @@ title: Math 181 Schedule
 | Nov 12 	| CORE Exam | 	|
 |     	|   **Week 13**      	|                 	|  
 | Nov 17 	| GP 21 |  |
-| Nov 19 	| GP 22 | 	|          	|
+| Nov 19 	| GP 22 | 	|          	
 |     	|   **Week 14**      	|                 	|  
 | Nov 24 	| GP 23 | HW 10  |
 | Nov 26 	| Thanksgiving  |       	|
