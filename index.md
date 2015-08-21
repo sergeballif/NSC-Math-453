@@ -7,7 +7,7 @@ title: Math 181 Schedule
 |--------	|---------	|-----------------	|
 | 	| **Week 1**     	| |
 | Aug 25 	| Intro  |	|
-| Aug 27 	| GP 1 | Getting Started	|
+| Aug 27 	| [GP 1](/NSC-Math-453/GP1.html) | Getting Started	|
 |     	|   **Week 2**      	|                 	|                	
 | Sep 1 	| GP 2 | HW 1	|
 | Sep 3 	| GP 3  | 	|   
