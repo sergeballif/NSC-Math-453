@@ -23,7 +23,7 @@ The following are basic tasks that you should be familiar with when you come to 
 + State the Zero Product Property (Theorem 1.10).
 + State the Additive Cancellation Law (Theorem 1.11).
 
-Reading questions
+## Reading questions
 
 During your reading or afterwards, answer the following questions. These will be graded on a scale of 0 to 1 on the basis of completeness and effort only. You should give a good-faith effort to answer each exercise and be right in your answer, but if you make a mathematical or conceptual mistake it will not count against you. However, if you leave an item blank, put “I don’t know”, or similarly do not put forth an effort to answer each question, you will lose credit. Be sure to come to class prepared to share your answers and to lead a discussion on these problems.
 
