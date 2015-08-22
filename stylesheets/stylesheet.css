@@ -255,8 +255,13 @@ hr {
 table {
   border: 1px solid #373737;
   margin-bottom: 20px;
-  text-align: left;
+  text-align: center;
  }
+ 
+ table {
+  width: 100%;
+  border: 1px solid #ebebeb;
+}
 
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
