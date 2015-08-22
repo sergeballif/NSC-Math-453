@@ -41,9 +41,9 @@ The object of the course for each student is to demonstrate mastery on as many l
 * __Mastery Problems:__ Each of the 37 __M__ objectives will be assessed through weekly homework assignments.   
 * __CORE-M Assessments__ Mastery of __CORE-M__ objectives will be assessed through problems (one problem for each __CORE-M__ objective) done during timed assessment periods in class.  
 * __Teaching Items:__ Finally, to demonstrate mastery of core objectives students will be asked to create three lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. Students can complete one project of the types
- - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the __CORE-M__ objectives of the class.
- - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the __CORE-M__ objectives of the class.
- - __Desmos Activity__ Students will create a Desmos account at https://teacher.desmos.com and create a lesson activity that illustrates one of the __CORE-M__ objectives of the class.
+  - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the __CORE-M__ objectives of the class.
+  - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the __CORE-M__ objectives of the class.
+  - __Desmos Activity__ Students will create a Desmos account at https://teacher.desmos.com and create a lesson activity that illustrates one of the __CORE-M__ objectives of the class.
 
 __Grading System__
 Math 453 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course  concepts. Our grading system works as follows:
