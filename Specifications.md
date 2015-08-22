@@ -21,11 +21,7 @@ The rules for determining Pass/No Pass work are more straightforward than the ru
 
 ## Specifications for work on Mastery Problems and Teaching Items
 
-__All Master Problems (homework) and Teaching items in MTH 310 are to be typed up using a word processor or typesetting system that can render mathematical notation in a professional-looking way__. The two best options are LaTeX or Microsoft Word using Equation Editor. I strongly encourage you to use LaTeX, since it’s the easiest platform to use (once you climb the initial learning curve), produces the best-looking results, and is a standard tool for math and science people in writing professional documents. If you have never used LaTeX before, I recommend two useful tools for getting started:
-
-The Introduction to LaTeX playlist at the GVSU Mathematics Department’s YouTube channel, and
-writeLaTeX, which is a free, cloud-based LaTeX platform that requires no installation and has some nice features.
-Additionally, I have made up a couple of simple LaTeX templates for both homework and portfolio writeups:
+__All Master Problems (homework) and Teaching items in MTH 310 are to be typed up using a word processor or typesetting system that can render mathematical notation in a professional-looking way__. The two best options are LaTeX or Microsoft Word using Equation Editor. I strongly encourage you to use LaTeX, since it’s the easiest platform to use (once you climb the initial learning curve), produces the best-looking results, and is a standard tool for math and science people in writing professional documents. I will also post the homework files in LaTeX format. I am happy to help with any LaTeX questions (though a google search is usually faster).
 
 Mastery Problems are completed as weekly homework assignments, and Teaching Items are projects that allow you to demonstrate mastery of CORE objectives at a deeper level. Mastery Problems and Teaching Items differ from other work in the class in that they are completed in an untimed environment. These problems involve written communication, and not just giving answers to problems. Therefore the specifications for work on these items are more complex and focus mainly on writing, communication, and style. 
 
