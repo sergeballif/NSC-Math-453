@@ -10,7 +10,7 @@ We will be following up on our introduction to the properties of the integers by
 
 ## Reading
 
-In the Hodge/Schlicker/Sundstrom text, read all of Investigation 1 (pages 3–13). Note that about half of this was already covered in class on Tuesday, but there are portions of that material that we did not stress, so you should still read the material in the book. You do NOT have to work the “Activities” in the book unless you want to, because we will be working on these in class.
+In the Hodge/Schlicker/Sundstrom text, read all of Investigation 1 (pages 3–9). Note that about half of this was already covered in class on Tuesday, but there are portions of that material that we did not stress, so you should still read the material in the book. You do NOT have to work the “Activities” in the book unless you want to, because we will be working on these in class.
 
 ## Learning Objectives 
 
