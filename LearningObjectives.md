@@ -80,9 +80,8 @@ To "__instantiate__" a definition means to construct or state examples of that d
 ## 9 Integer Multiples and Exponents
 
 + __CC.15:__ State and instantiate the definitions of the following terms: subring, subfield, field extension, direct sum of rings.
-+ __(CORE) M.20:__ Use the Subring Test to determine whether a subset of a ring is a subring.
-+ __M.28:__ Add and multiply elements in the direct sum of rings.
-+ __M.29:__ Show that the direct sum of rings is also a ring.
++ __(CORE) M.28:__ Use the Subring Test to determine whether a subset of a ring is a subring.
++ __M.29:__ Show that the direct sum of rings is also a ring. Add and multiply elements in the direct sum of rings.
 + __M.30:__ Determine whether the union, intersection, and/or symmetric difference of subrings is a subring.
 
 ## 10 Isomorphisms and Invariants
