@@ -10,7 +10,7 @@ In our next class we will begin looking at __divisibility properties of the inte
 
 ## Reading
 
-In your textbook, read pages __15–24 starting from the beginning of Investigation 2 up to (but not including) the section titled “Congruence”__. (Integer congruence will be the focus of our next class, so if you want to skim ahead, that would help you later, but it’s not necessary for now.) Note that the items labelled “Activity” and the proof of the Division Algorithm will be the focus of our work in class, so you do not need to complete these before class – just be familiar with what is in those items.
+In your textbook, read pages __11–17 starting from the beginning of Investigation 2 up to (but not including) the section titled “Congruence”__. (Integer congruence will be the focus of our next class, so if you want to skim ahead, that would help you later, but it’s not necessary for now.) Note that the items labelled “Activity” and the proof of the Division Algorithm will be the focus of our work in class, so you do not need to complete these before class – just be familiar with what is in those items.
 
 ## Learning Objectives 
 
