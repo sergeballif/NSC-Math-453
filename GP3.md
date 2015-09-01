@@ -14,7 +14,7 @@ In your textbook, read pages __18–20__. Also review the earlier portions of In
 
 ## Learning Objectives 
 
-The following are basic tasks that you should be familiar with when you come to class. We will not re-teach these in class, although after the Concept Check quiz we will have time for questions and answers on them. The Concept Check quiz will be drawn from objectives __CC 3__ and __CC 4__. Come prepared to do the following:
+The following are basic tasks that you should be familiar with when you come to class. We will not re-teach these in class, although after the Concept Check quiz we will have time for questions and answers on them. The Concept Check quiz will be drawn from objectives __CC.3__ and __CC.4__. Come prepared to do the following:
 
 + State the definition of “divides” (i.e., what it means for one integer to divide another).
 + Given two integers $a$ and $b$, determine if $a$ divides $b$. If so, state the integer $q$ such that $b = aq$.
