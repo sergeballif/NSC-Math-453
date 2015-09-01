@@ -10,7 +10,7 @@ title: Math 453 Schedule
 | Aug 27 	| [GP 1](/NSC-Math-453/GP1.html) | [Getting Started](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453GettingStarted.tex&splash=none)	|
 |     	|   **Week 2**      	|                 	|                	
 | Sep 1 	| [GP 2](/NSC-Math-453/GP2.html) | [HW 1](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW1.tex&splash=none)	|
-| Sep 3 	| GP 3  | 	|   
+| Sep 3 	| [GP 3](/NSC-Math-453/GP3.html)  | 	|   
 |     	|   **Week 3**      	|                 	|                	
 | Sep 8 	| GP 4 | HW 2 |
 | Sep 10 	| GP 5 | |    
