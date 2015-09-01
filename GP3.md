@@ -18,6 +18,7 @@ The following are basic tasks that you should be familiar with when you come to 
 
 + State the definition of “divides” (i.e., what it means for one integer to divide another).
 + Given two integers $a$ and $b$, determine if $a$ divides $b$. If so, state the integer $q$ such that $b = aq$.
++ State the Well-Ordering Principle.
 + State the Division Algorithm. (Be precise and include all parts.)
 + Given two integers $a$ and $b$ (with $a > 0$), state the integers $q$ and $r$ such that $b=aq+r$ and $0\le r<a$.
 + Define what it means for two integers to be congruent modulo $n$ where $n$ is a positive integer.
