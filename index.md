@@ -19,7 +19,7 @@ title: Math 453 Schedule
 | Sep 17 	| CORE Exam |	|
 |     	|   **Week 5**      	|                 	|                	
 | Sep 22 	| GP 7 |  |
-| Sep 24 	| GP 8 | Teaching Item 1 |
+| Sep 24 	| GP 8 | [Teaching Item 1](/NSC-Math-453/TeachingItems.html) |
 |     	|   **Week 6**      	|                 	|                	
 | Sep 29 	| GP 9  | HW 4 |
 | Oct 1 	| GP 10 |  |    
