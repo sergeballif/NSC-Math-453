@@ -6,7 +6,7 @@ title: Guided Practice 6
 
 ## Preview
 
-Investigation 4 is about prime factorization. We will first discuss the concept of a prime number and the Fundamental Theorem of Arithmetic which states that every natural number has a unique prime factorization. The Fundamental Theorem of Arithmetic allows us to take any natural number and write it in terms of a product of basic building blocks, and the primes are those building blocks. In a twist at the end, we will take up our first question about abstraction: Is it possible to define a “prime object” in other algebraic systems?
+Investigation 4 is about prime factorization. We will first discuss the concept of a prime number and the Fundamental Theorem of Arithmetic which states that every natural number has a unique prime factorization. The Fundamental Theorem of Arithmetic allows us to take any natural number and write it in terms of a product of basic building blocks, and the primes are those building blocks. In a twist at the end, we will take up our first question about abstraction: Is it possible to define a “prime object” in other algebraic systems? We will save the proof of the Fundamental Theorem of Arithmetic until the next class period.
 
 ## Reading
 
