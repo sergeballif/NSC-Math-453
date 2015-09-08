@@ -14,18 +14,15 @@ In your textbook, review pages __33–40__.
 
 ## Learning Objectives 
 
-The following are basic tasks that you should be familiar with when you come to class. The Concept Check quiz will be drawn from objectives __CC.5__ and __CC.6__ that were covered in Investigation 3. Come prepared to do the following:
+The following are basic tasks that you should be familiar with when you come to class. There will be no Concept Check no this day. Come prepared to do the following:
 
-+ Define the concept of a common divisor of two integers.
-+ Define the concept of the greatest common divisor of two integers.
-+ Given two integers (including 0 and negative integers) compute their GCD.
-+ Define the concept of a linear combination of two integers.
-+ State the result of Theorem 3.9 (Bezout’s Identity).
-+ State the result of Theorem 3.4.
-+ Define what it means for two integers to be relatively prime.
-+ Given two integers, determine whether they are relatively prime.
-+ Define what it means for a number to be a linear combination of two integers.
-+ Determine whether a given integer can be written as a linear combination of two given integers.
++ State the definition of __prime number__ and __composite number__.
++ List at least 10 prime numbers, at least one of which is greater than three digits in length.
++ State the __Fundamental Theorem of Arithmetic__.
++ Given a natural number, write out its prime factorization.
++ Outline the overall strategy and steps used in a proof by mathematical induction.
++ Given an assertion that is to be proven by mathematical induction, clearly state the base case, the hypothesis of the induction step, and the conclusion of the inductive step.
++ State __Euclid’s Lemma__ (both the “weak” form on page 36 and the “strong” form on page 37).
 
 ## Induction Videos
 
