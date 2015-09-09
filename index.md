@@ -15,10 +15,10 @@ title: Math 453 Schedule
 | Sep 8 	| [GP 4](/NSC-Math-453/GP4.html) | [HW 2](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW2.tex&splash=none) |
 | Sep 10 	| [GP 5](/NSC-Math-453/GP5.html) | |    
 |     	|   **Week 4**      	|                 	|  
-| Sep 15 	| [GP 6](/NSC-Math-453/GP6.html) | HW 3|              	
+| Sep 15 	| [GP 6](/NSC-Math-453/GP6.html) | [HW 3](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW3.tex&splash=none)|              	
 | Sep 17 	| CORE Exam |	|
 |     	|   **Week 5**      	|                 	|                	
-| Sep 22 	| GP 7 |  |
+| Sep 22 	| [GP 7](/NSC-Math-453/GP7.html) |  |
 | Sep 24 	| GP 8 | [Teaching Item 1](/NSC-Math-453/TeachingItems.html) |
 |     	|   **Week 6**      	|                 	|                	
 | Sep 29 	| GP 9  | HW 4 |
