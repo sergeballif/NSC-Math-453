@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Math 453 Schedule
+published: true
 ---
+
 
 | Date   	| Guided Practice 	|  HW Due 	|
 |--------	|---------	|-----------------	|
@@ -34,7 +36,7 @@ title: Math 453 Schedule
 | Oct 22  | GP 15 |	|
 |     	|   **Week 10**      	|                 	|                	
 | Oct 27 	| GP 16 |	HW 7 |
-| Oct 29 	| GP 17 | Teaching Item 2	|
+| Oct 29 	| GP 17 | [Teaching Item 2](/NSC-Math-453/homework/Math453TeachingItem2.pdf)	|
 |     	|   **Week 11**      	|                 	|                	
 | Nov 3 	| GP 18  | HW 8 |
 | Nov 5 	| GP 19  | 	|          
@@ -49,7 +51,7 @@ title: Math 453 Schedule
 | Nov 26 	| Thanksgiving  |       	|
 |     	|   **Week 15**      	|                 	|  
 | Dec 1 	| GP 24 | HW 11  |
-| Dec 3 	| GP 25 | Teaching item 3	|          	
+| Dec 3 	| GP 25 | [Teaching Item 3](/NSC-Math-453/homework/Math453TeachingItem3.pdf)	|          	
 |     	|   **Week 16**      	|                 	|  
 | Dec 8 	| CORE Exam  | HW 12 |
-| Dec 10 	| (CORE Exam)  | 	|  
+| Dec 10 	| (CORE Exam)  | 	|
