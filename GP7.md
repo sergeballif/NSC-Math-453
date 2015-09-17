@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Guided Practice 7
+published: true
 ---
+
 # Guided Practice 7: Investigation 4
 
 ## Preview
@@ -28,8 +30,8 @@ The following are basic tasks that you should be familiar with when you come to 
 
 This Investigation uses heavily the concept of a proof by mathematical induction, and we will assume in class that all students have basic fluency with the concept and overall strategy of induction proofs. Watch the two videos below for a quick review.
 
-[Mathematical induction part 1](http://www.youtube.com/watch?v=JTj6ID4-084&list=PL2419488168AE7001&index=52) (5:23)
-[Mathematical induction part 2](http://www.youtube.com/watch?v=1H0gg3fMYVA&list=PL2419488168AE7001&index=53) (6:16)
++ [Mathematical induction part 1](http://www.youtube.com/watch?v=JTj6ID4-084&list=PL2419488168AE7001&index=52) (5:23)
++ [Mathematical induction part 2](http://www.youtube.com/watch?v=1H0gg3fMYVA&list=PL2419488168AE7001&index=53) (6:16)
 
 ## Reading questions
 
