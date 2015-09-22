@@ -48,7 +48,7 @@ To "__instantiate__" a definition means to construct or state examples of that d
 ## 5 Equivalence Relations and $\mathbb{Z}_n$
 
 + __CC.9:__ State and instantiate the definitions of the following terms: relation, equivalence relation, congruence class, equivalence class, integers modulo $n$, Cartesian product, binary operation, well defined.
-+ __CC.10:__ Carry out arithmetic in $\mathbb{Z}_n$ and be able to identify units and zero divisors in $\mathbb{Z}_n$ and be able to find additive and multiplicative inverses of elements of $\mathbb{Z}_n$.
++ __CC.10:__ Carry out arithmetic in $\mathbb{Z}_n$. Be able to identify units and zero divisors in $\mathbb{Z}_n$, and be able to find additive and multiplicative inverses of elements of $\mathbb{Z}_n$.
 + __(CORE) M.12:__ Determine whether a given relation is an equivalence relation
 + __(CORE) M.13:__ Be able to use an equivalence relation to break up a set into disjoint equivalence classes (as in Theorem 5.6).
 + __M.14:__ Prove the statement of Exercise 17. 
