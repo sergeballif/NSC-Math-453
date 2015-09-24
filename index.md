@@ -8,6 +8,7 @@ published: true
 
 
 
+
 | Date   	| Guided Practice 	|  HW Due 	|
 |--------	|---------	|-----------------	|
 | 	| **Week 1**     	| |
@@ -27,7 +28,7 @@ published: true
 | Sep 24 	| [GP 8](/NSC-Math-453/GP8.html) | [Teaching Item 1](/NSC-Math-453/TeachingItems.html) |
 |     	|   **Week 6**      	|                 	|                	
 | Sep 29 	| [GP 9](/NSC-Math-453/GP9.html)  | [HW 4](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW4.tex&splash=none) |
-| Oct 1 	| GP 10 |  |    
+| Oct 1 	| [GP 10](/NSC-Math-453/GP10.html) |  |    
 |     	|   **Week 7**      	|                 	|                	
 | Oct 6  	| GP 11 | HW 5 |
 | Oct 8 	| GP 12 | 	|        
