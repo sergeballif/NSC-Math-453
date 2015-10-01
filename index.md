@@ -34,7 +34,7 @@ published: true
 | Oct 6  	| [GP 11](/NSC-Math-453/GP11.html) | [HW 5](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW5.tex&splash=none) |
 | Oct 8 	| GP 12 | 	|        
 |     	|   **Week 8**      	|                 	|                	
-| Oct 13 	| GP 13 | HW 6 |
+| Oct 13 	| GP 13 | [HW 6](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW6.tex&splash=none) |
 | Oct 15	| CORE Exam  | 	|
 |     	|   **Week 9**      	|                 	|           
 | Oct 20 	| GP 14 |	|     	
