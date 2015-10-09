@@ -40,7 +40,7 @@ published: true
 | Oct 20 	| GP 14 |	|     	
 | Oct 22  | GP 15 |	|
 |     	|   **Week 10**      	|                 	|                	
-| Oct 27 	| GP 16 |	HW 7 |
+| Oct 27 	| GP 16 |	[HW 7](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW7.tex&splash=none) |
 | Oct 29 	| GP 17 | [Teaching Item 2](/NSC-Math-453/homework/Math453TeachingItem2.pdf)	|
 |     	|   **Week 11**      	|                 	|                	
 | Nov 3 	| GP 18  | HW 8 |
