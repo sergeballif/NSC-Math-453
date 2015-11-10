@@ -65,7 +65,7 @@ To "__instantiate__" a definition means to construct or state examples of that d
 + __CC.12:__ State and instantiate the definitions of the following terms: ring, field, integral domain.
 + __CC.13:__ State the following mathematical results: Theorem 7.20.
 + __(CORE) M.18:__ Determine whether a set forms a ring under specified operations.
-+ __(CORE) M.19:__ Given a ring (especially the standard examples of groups on page 82), do the following: identify the zero element element; identify the additive inverse of a given element; perform operations in the ring; determine whether it is commutative; determine whether the ring has a multiplicative identity; and describe any units in the ring and their multiplicative inverses; identify any zero divisors in the ring.
++ __(CORE) M.19:__ Given a ring (especially the standard examples of rings on page 82), do the following: identify the zero element element; identify the additive inverse of a given element; perform operations in the ring; determine whether it is commutative; determine whether the ring has a multiplicative identity; and describe any units in the ring and their multiplicative inverses; identify any zero divisors in the ring.
 + __M.20:__ Use the properties of zero divisors and units to solve equations involving elements of a ring.
 + __M.21:__ Be able to determine whether $\mathbb{Z}_n$ is a field based off the value of $n$.
 + __M.22:__ Show that the ring $\mathbb{Z}^\star$ of Activity 7.27 is a ring.
