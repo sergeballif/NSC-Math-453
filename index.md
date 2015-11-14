@@ -52,7 +52,7 @@ published: true
 | Nov 17 	| [GP 21](/NSC-Math-453/GP21.html) |  |
 | Nov 19 	| [GP 22](/NSC-Math-453/GP22.html) | 	|          	
 |     	|   **Week 14**      	|                 	|  
-| Nov 24 	| GP 23 | HW 10  |
+| Nov 24 	| GP 23 | [HW 10](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW10.tex&splash=none)  |
 | Nov 26 	| Thanksgiving  |       	|
 |     	|   **Week 15**      	|                 	|  
 | Dec 1 	| GP 24 | HW 11  |
