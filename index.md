@@ -55,8 +55,8 @@ published: true
 | Nov 24 	| [GP 23](/NSC-Math-453/GP23.html) | [HW 10](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW10.tex&splash=none)  |
 | Nov 26 	| Thanksgiving  |       	|
 |     	|   **Week 15**      	|                 	|  
-| Dec 1 	| GP 24 | [HW 11](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW11.tex&splash=none)  |
-| Dec 3 	| GP 25 | [Teaching Item 3](/NSC-Math-453/homework/Math453TeachingItem3.pdf)	|          	
+| Dec 1 	| [GP 25](/NSC-Math-453/GP25.html) | [HW 11](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW11.tex&splash=none)  |
+| Dec 3 	| [GP 26](/NSC-Math-453/GP26.html) | [Teaching Item 3](/NSC-Math-453/homework/Math453TeachingItem3.pdf)	|          	
 |     	|   **Week 16**      	|                 	|  
 | Dec 8 	| CORE Exam  | HW 12 |
 | Dec 10 	| (CORE Exam)  | 	|
