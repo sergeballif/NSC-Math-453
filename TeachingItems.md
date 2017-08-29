@@ -8,8 +8,7 @@ published: true
 
 ## Getting to the Project 
 
-Go to [overleaf.com](http://www.overleaf.com) and create an account. Once you are logged in you will see a screen that lets you create projects. First download the zip file [here](/NSC-Math-453/images/math-453-teaching.zip) and then upload it on overleaf by clicking on the arrow of the image
 
-![Upload Image](images/Unzip.PNG)
+Go to [overleaf.com](https://www.overleaf.com/read/wmvmzqbybkhv) to open the template. Click the link to **clone** the project. Click the link to **Sign Up** so that you can save your progress.
 
-Now you should see a project that contains the instructions, but you need to tweak one additional setting. Click on the gear icon in the upper left corner by your username. Under the Project Settings change the LaTeX engine to be XeLaTeX. Now the project should appear. You edit the code on the left and the output gets displayed on the right. Good luck.
+Now you should see a project that contains the instructions. You edit the code on the left and the output gets displayed on the right. Good luck.
