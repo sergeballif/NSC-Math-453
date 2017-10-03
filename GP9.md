@@ -57,4 +57,4 @@ Here are some relevant videos you can watch that give some explanation or exampl
 During your reading or afterwards, answer the following questions. These will be graded on a scale of 0 to 1 on the basis of completeness and effort only. You should give a good-faith effort to answer each exercise and be right in your answer, but if you make a mathematical or conceptual mistake it will not count against you. However, if you leave an item blank, put “I don’t know”, or similarly do not put forth an effort to answer each question, you will lose credit. Be sure to come to class prepared to share your answers and to lead a discussion on these problems.
 
 1. Complete Preview Activity 5.1.
-2. Explain why $\left[5\right]\_{12}$ is a unit in $\mathbb{Z}_{12}$. Explain why $\left[4\right]\_{12}$ is a zero divisor in $\mathbb{Z}_{12}$.
+2. Explain why $\left[5\right]\_{12}$ is a unit in $\mathbb{Z}\_{12}$. Explain why $\left[4\right]\_{12}$ is a zero divisor in $\mathbb{Z}\_{12}$.
