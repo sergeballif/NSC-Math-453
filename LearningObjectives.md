@@ -79,7 +79,7 @@ To "__instantiate__" a definition means to construct or state examples of that d
 + __M.26:__ Be able to compute negative multiples or negative powers of various ring elements (or know when such things are not defined).
 + __M.27:__ Prove that the Characteristic of an integral domain is either zero or prime.
 
-## 9 Integer Multiples and Exponents
+## 9 Subrings, Extensions, and Direct Sums
 
 + __CC.15:__ State and instantiate the definitions of the following terms: subring, subfield, field extension, direct sum of rings.
 + __(CORE) M.28:__ Use the Subring Test to determine whether a subset of a ring is a subring.
