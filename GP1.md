@@ -6,7 +6,7 @@ title: Guided Practice 1
 
 ## Preview
 
-We will be following up on our introduction to the properties of the integers by discussing the axioms for ordering and working on proof validation and proof-writing activities that involve both the arithmetic and ordering axioms. We will begin with an Concept Check Quiz (see objectives below). 
+We will be following up on our introduction to the properties of the integers by discussing the axioms for ordering and working on proof validation and proof-writing activities that involve both the arithmetic and ordering axioms. We will begin with a Concept Check Quiz (see objectives below). 
 
 ## Reading
 
