@@ -9,6 +9,4 @@ published: true
 ## Getting to the Project 
 
 
-Go to [overleaf.com](https://www.overleaf.com/read/qmfjntpbbsdw) to open the template. Click the link to **clone** the project. Click the link to **Sign Up** so that you can save your progress.
-
-Now you should see a project that contains the instructions. You edit the code on the left and the output gets displayed on the right. Good luck.
+Open a new note at hackmd.io. From the menu, select "import gist". Then paste in the link https://gist.github.com/sergeballif/774ca9c4a323ca4a95e36ccb60c28dbd to get your own copy of the lesson template with instructions. Edit the code on the left and the output gets displayed on the right. Good luck.
