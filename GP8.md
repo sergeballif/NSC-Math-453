@@ -39,4 +39,4 @@ Once again I want to stress the importance of knowing the principle of mathemati
 During your reading or afterwards, answer the following questions. These will be graded on a scale of 0 to 1 on the basis of completeness and effort only. You should give a good-faith effort to answer each exercise and be right in your answer, but if you make a mathematical or conceptual mistake it will not count against you. However, if you leave an item blank, put “I don’t know”, or similarly do not put forth an effort to answer each question, you will lose credit. Be sure to come to class prepared to share your answers and to lead a discussion on these problems.
 
 1. Complete Preview Activity 4.3.
-2. Show that $$1\cdot 2+3\cdot 4+5\cdot6+\cdots +(2n-1)(2n)=\frac{n(n+1)(4n-1)}{3}$$ for each natural number $n$.
+2. Show that $1\cdot 2+3\cdot 4+5\cdot6+\cdots +(2n-1)(2n)=\frac{n(n+1)(4n-1)}{3}$ for each natural number $n$.
